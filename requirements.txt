@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-google-genai
+python-dotenv
+requests
+ddgs
+pandas
+openpyxl
+beautifulsoup4
+markdownify
+huggingface_hub
