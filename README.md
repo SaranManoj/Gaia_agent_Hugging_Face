@@ -7,4 +7,6 @@ Tools: web search (DuckDuckGo), Wikipedia, web page reader, Python runner, YouTu
 ## Setup
 1. `pip install -r requirements.txt`
 2. Copy `.env.example` to `.env` and add your keys
+   (`HF_TOKEN` is only needed for the fallback file download: accept the
+   [GAIA dataset](https://huggingface.co/datasets/gaia-benchmark/GAIA) conditions first)
 3. Run `agent.ipynb` top to bottom
